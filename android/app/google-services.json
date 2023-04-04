@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "801389172341",
+    "firebase_url": "https://shayaan-eform-demo-db-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shayaan-eform-demo-db",
+    "storage_bucket": "shayaan-eform-demo-db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801389172341:android:81d9975342c621758aca3c",
+        "android_client_info": {
+          "package_name": "com.example.eform_experiment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801389172341-26es2ldup7q59mfp6f2i4b6gq07kr37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1asLd72MxM63QEfRpo_oUMt0bG9o5sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801389172341-26es2ldup7q59mfp6f2i4b6gq07kr37a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801389172341-qkggkp45a4vpnlshe9ee0630vsnqkcru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eformProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801389172341:android:c7217d8ac77dfb7c8aca3c",
+        "android_client_info": {
+          "package_name": "com.example.eform_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801389172341-26es2ldup7q59mfp6f2i4b6gq07kr37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1asLd72MxM63QEfRpo_oUMt0bG9o5sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801389172341-26es2ldup7q59mfp6f2i4b6gq07kr37a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801389172341-qkggkp45a4vpnlshe9ee0630vsnqkcru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eformProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801389172341:android:98af80866e631b2b8aca3c",
+        "android_client_info": {
+          "package_name": "com.example.eform_testproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801389172341-26es2ldup7q59mfp6f2i4b6gq07kr37a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE1asLd72MxM63QEfRpo_oUMt0bG9o5sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801389172341-26es2ldup7q59mfp6f2i4b6gq07kr37a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "801389172341-qkggkp45a4vpnlshe9ee0630vsnqkcru.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eformProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
